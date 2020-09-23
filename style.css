@@ -17,3 +17,15 @@ li {
     font-family: 'Open Sans',
         sans-serif;
 }
+
+.name {
+    width: 70%;
+    font-size: 80px;
+    display: inline;
+}
+
+.contact {
+    width: 30%;
+    display: inline;
+    margin: 0;
+}
