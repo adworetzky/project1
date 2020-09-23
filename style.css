@@ -1,6 +1,7 @@
 body {
     width: 1200px;
     margin: 0 auto;
+    padding: 20px;
 }
 
 h1,
@@ -19,13 +20,26 @@ li {
 }
 
 .name {
-    width: 70%;
+    width: 50%;
     font-size: 80px;
-    display: inline;
+    display: inline-block;
+    margin: 0;
 }
 
 .contact {
-    width: 30%;
-    display: inline;
+    width: 50%;
     margin: 0;
+}
+
+.contactwrapper {
+    width: 40%;
+    margin: 0;
+    display: inline-block;
+}
+
+.skillscard {
+    width: 25%;
+    margin: 0 2%;
+    display: inline-block;
+    vertical-align: top;
 }
