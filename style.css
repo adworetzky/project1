@@ -2,6 +2,9 @@ body {
     width: 1200px;
     margin: 0 auto;
     padding: 20px;
+    font-family: 'Open Sans',
+        sans-serif;
+    background-color: #ffffff;
 
 }
 
@@ -21,15 +24,16 @@ li {
         sans-serif;
 }
 
-h3 {
+h4 {
     margin: 3px;
 }
 
-h1 {
+h1,
+h2 {
     color: #71eeb8;
 }
 
-h2 {
+h3 {
     color: #A9A9A9;
 }
 
