@@ -1,4 +1,8 @@
-Angelique said to add some text here so thats's what i'm doing.
+Helvetica and Times New Roman walk into a bar...
+“Get out of here!” shouts the bartender. “We don’t serve your type.”
+
+https://glitch.com/~adworetzky-project1
+
 Your Project
 ============
 
